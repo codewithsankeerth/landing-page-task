@@ -1,0 +1,4 @@
+echo "# Landing Page Task" > README.md
+git add README.md
+git commit -m "Add README"
+git push
